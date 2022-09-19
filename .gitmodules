@@ -8,11 +8,6 @@
 	url = https://github.com/yikeshu0611/cutoff
 	shallow = true
 	registered = true
-[submodule "do"]
-	path = do
-	url = https://github.com/yikeshu0611/do
-	shallow = true
-	registered = true
 [submodule "nomogramFormula"]
 	path = nomogramFormula
 	url = https://github.com/yikeshu0611/nomogramformula
