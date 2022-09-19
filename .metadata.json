@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "do",
+    "oncran": true
+  },
+  {
     "package": "nomogramFormula",
     "oncran": true
   },
