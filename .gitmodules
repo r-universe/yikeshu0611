@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "set"]
-	path = set
-	url = https://github.com/yikeshu0611/set
-	shallow = true
-	registered = true
 [submodule "cutoff"]
 	path = cutoff
 	url = https://github.com/yikeshu0611/cutoff
@@ -21,5 +16,10 @@
 [submodule "nomogramFormula"]
 	path = nomogramFormula
 	url = https://github.com/yikeshu0611/nomogramformula
+	shallow = true
+	registered = true
+[submodule "set"]
+	path = set
+	url = https://github.com/yikeshu0611/set
 	shallow = true
 	registered = true

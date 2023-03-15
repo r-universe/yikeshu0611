@@ -1,9 +1,5 @@
 [
   {
-    "package": "set",
-    "oncran": true
-  },
-  {
     "package": "cutoff",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "nomogramFormula",
+    "oncran": true
+  },
+  {
+    "package": "set",
     "oncran": true
   }
 ]
