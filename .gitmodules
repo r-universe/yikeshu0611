@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cutoff"]
 	path = cutoff
 	url = https://github.com/yikeshu0611/cutoff
-	shallow = true
-	registered = true
 [submodule "do"]
 	path = do
 	url = https://github.com/yikeshu0611/do
-	shallow = true
-	registered = true
 [submodule "nomogramFormula"]
 	path = nomogramFormula
 	url = https://github.com/yikeshu0611/nomogramformula
-	shallow = true
-	registered = true
 [submodule "set"]
 	path = set
 	url = https://github.com/yikeshu0611/set
-	shallow = true
-	registered = true
